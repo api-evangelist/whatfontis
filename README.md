@@ -64,7 +64,7 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-WhatFontIS provides an AI‑powered font identification service that lets users upload an image and receive matching typefaces from a database of over 1.2 million fonts, both commercial and free. The platform offers tools such as a font analyzer, similar‑font suggestions, font pairing generator, and web‑font generation, targeting designers, developers, and typographers. Users can sign up for free or upgrade to a PRO membership for additional features and higher usage limits.
+WhatFontIS provides an AI‑powered font identification service that lets users upload an image and receive matching typefaces from a database of over 1.2 million fonts, both commercial and free. The platform offers tools such as a font analyzer, similar‑font suggestions, font pairing generator, and web‑font generation, targeting designers, developers, and typographers. Users can sign up for free or upgrade to a PRO membership for additional features and higher usage limits.
 
 **Areas:** Company · Font Identification · Artificial Intelligence · Design Tools · Typography
 
@@ -80,7 +80,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Whatfontis Domain Security](https://apis.io/security/whatfontis/whatfontis-domain-security/)
+- [WhatFontIS Domain Security](https://apis.io/security/whatfontis/whatfontis-domain-security/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [WhatFontIS Rate Limits](https://apis.io/rate-limits/whatfontis/whatfontis-rate-limits/)
 
 ## Where to find this API
 
@@ -89,11 +95,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Website](https://whatfontis.com/)
 - [Documentation](https://www.whatfontis.com/API-identify-fonts-from-image.html)
 - [Getting started](https://whatfontis.com/getting-started.html)
+- [API reference](https://www.whatfontis.com/API-identify-fonts-from-image.html)
 - [Terms of service](https://whatfontis.com/terms.html)
 
 ## API Evangelist rating
 
-**Kin Score 11.4** — emerging · rubric 0.24.0 · scored 2026-10-17
+**Kin Score 11.4** — emerging · rubric 0.25.0 · scored 2026-10-23
 
 | Facet | Score |
 |---|---|
@@ -127,6 +134,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
 
 **Regulatory alignment 9.1** — Horizontal (data, software, accessibility, platform)
 
