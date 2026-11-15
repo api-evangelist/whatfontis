@@ -97,6 +97,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Getting started](https://whatfontis.com/getting-started.html)
 - [API reference](https://www.whatfontis.com/API-identify-fonts-from-image.html)
 - [Terms of service](https://whatfontis.com/terms.html)
+- [GitHub](https://github.com/whatfontis)
 
 ## API Evangelist rating
 
